@@ -1,6 +1,6 @@
 <h1>Hi 👋, I'm Akshay, Welcome in.</h1>
 
-<p>I'm Robert, a full stack developer Senior Full-Stack Enginee · Pune, India</p>
+<p>I'm Akshay, a full stack developer Senior Full-Stack Enginee · Pune, India</p>
 <h3>Things I work with</h3>
 
 <h4>Frontend</h4>
